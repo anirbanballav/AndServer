@@ -1,4 +1,4 @@
-# AndServer
+# AndServer -An Amazing Project
 
 ![Logo](./images/logo.svg)
 
